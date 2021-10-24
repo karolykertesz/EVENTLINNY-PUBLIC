@@ -27,6 +27,16 @@ export const DUMMY_EVENTS = [
     isFeatured: true,
   },
   {
+    id: "e9",
+    title: "Networking for Developers",
+    description:
+      "We know: Networking is no fun if you are an introvert person. That's why we came up with this event - it'll be so much easier. Promised!",
+    location: "Miami",
+    date: "2021-09-30",
+    image: "images/introvert-event.jpg",
+    isFeatured: false,
+  },
+  {
     id: "e3",
     title: "Networking for extroverts",
     description:
